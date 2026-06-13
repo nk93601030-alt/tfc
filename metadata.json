@@ -1,0 +1,8 @@
+{
+  "name": "TFC Pollachi",
+  "description": "Together Fitness Centre (TFC) - Pollachi's first modern fitness centre for children with disabilities and older adults. Compassionate, accessible, and high-performance training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

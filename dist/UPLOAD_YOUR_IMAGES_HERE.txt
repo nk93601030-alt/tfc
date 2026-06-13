@@ -1,0 +1,31 @@
+WELCOME! CHENNAI/POLLACHI TFC TOGETHER IMAGE UPLOAD GUIDE
+======================================================
+
+You can upload your own images directly into the "public" folder of the project to replace any image on the website!
+
+Simply name your images exactly as listed below and upload them:
+
+1. HERO SECTION & BACKGROUND IMAGES:
+   - Big Main Banner Image    ==> Name it exactly: hero.jpg
+   - Custom Website Wallpaper ==> Name it exactly: background.jpg (Select "Custom Image Wallpaper" in our new live toolbar to activate!)
+
+2. COACH / TRAINER IMAGES:
+   - Coach 1 (K. Sundaram)    ==> Name it exactly: coach1.jpg
+   - Coach 2 (Trainer Preethi)==> Name it exactly: coach2.jpg
+   - Coach 3 (Trainer Vignesh)==> Name it exactly: coach3.jpg
+
+3. KEY CAPABILITIES / SERVICES IMAGES:
+   - Service 1 (Adaptive Gym) ==> Name it exactly: service1.jpg
+   - Service 2 (Sensory Int.) ==> Name it exactly: service2.jpg
+   - Service 3 (Hydro Therapy) ==> Name it exactly: service3.jpg
+   - Service 4 (Active Aging) ==> Name it exactly: service4.jpg
+
+4. GALLERY IMAGES:
+   - Gallery 1 (Sensory)      ==> Name it exactly: gallery1.jpg
+   - Gallery 2 (Gym)          ==> Name it exactly: gallery2.jpg
+   - Gallery 3 (Gym)          ==> Name it exactly: gallery3.jpg
+   - Gallery 4 (Classes)      ==> Name it exactly: gallery4.jpg
+   - Gallery 5 (Sensory)      ==> Name it exactly: gallery5.jpg
+   - Gallery 6 (Therapy)      ==> Name it exactly: gallery6.jpg
+
+Once uploaded, the website will automatically detect your images and load them! If an image is missing or not uploaded yet, a beautiful fallback image from Unsplash is shown automatically.
